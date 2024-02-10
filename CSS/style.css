@@ -5,3 +5,24 @@
 h2 {
     color: red;
 }
+
+/* Una clase */
+.texto-verde {
+    color: green;
+}
+
+/* Selector por etiqueta */
+footer {
+    color:aqua;
+}
+
+/* Un id */
+#párrafo-rosa {
+    color: pink;
+    font-size: 20px;
+}
+
+/* Combinación de etiquetas */
+header p {
+    color: aquamarine;
+}
